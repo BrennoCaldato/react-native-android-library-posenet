@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package io.posenet.boilerplate;
 
 import android.widget.Toast;
 
